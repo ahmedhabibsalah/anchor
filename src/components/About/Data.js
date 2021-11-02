@@ -1,0 +1,18 @@
+export const homeObjOne = {
+    id:'about',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
+    topLine: 'Anchor For Digital Services',
+    headLine: 'Why Choose Us ?',
+    descriptionLineOne: "• Anchor is a website designing and development company providing services to enterprises across the world and marketing needs",
+    descriptionLineTwo:"• Provides high quality on site services for software development and the end users on a broad range of hardware & software platforms and latest technologies.",
+    descriptionLineThree: "• We assure to deliver maximum value to our clients with an affordable prices. ",
+    descriptionLineFour:"• we would appreciate if you don't measure our credits by what's said or written but by giving us a chance to showcase our expertise while working with you. If you will give us a chance then will be prove it practically. " ,
+    imgStart: true,
+    img: './images/Business_deal.svg',
+    alt:'Business deal',
+    dark: true,
+    primary: true,
+    darkText: true,
+}
